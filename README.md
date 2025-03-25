@@ -21,7 +21,7 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 
 ### Module_005 - Bias-Variance.ipynb
 - Explores the bias-variance tradeoff in machine learning
-- Discusses model complexity and generalization
+- Discusses model complexity and generalisation
 - Covers techniques to balance bias and variance
 
 ### Module_006 - Performance Evaluation.ipynb
@@ -33,6 +33,36 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Explains cross-validation techniques for model evaluation
 - Covers k-fold cross-validation and stratified sampling
 - Discusses oversampling techniques for imbalanced datasets
+
+### Module_008 - KNN.ipynb
+- Explains the k-Nearest Neighbors algorithm and its implementation
+- Covers distance metrics and neighbor selection strategies
+- Discusses parameter tuning and the effect of k on model performance
+
+### Module_009 - Decision Trees.ipynb
+- Introduces decision tree algorithms and their construction
+- Explains splitting criteria and tree growth mechanisms
+- Covers pruning techniques and handling categorical variables
+
+### Module_010 - Tree Ensembles.ipynb
+- Explores advanced tree-based methods including Random Forests and AdaBoost
+- Covers bootstrapping and feature importance evaluation techniques
+- Discusses model interpretability and the bias-variance tradeoff in ensembles
+
+### Module_011 - Naive Bayes.ipynb
+- Explains the Naive Bayes classification algorithm
+- Covers probability-based classification and the independence assumption
+- Discusses applications and limitations of Naive Bayes
+
+### Module_012 - Bayesian Optimisation.ipynb
+- Introduces Bayesian optimisation techniques for hyperparameter tuning
+- Covers acquisition functions and surrogate models
+- Explains the exploration-exploitation tradeoff
+
+### Module_013 - Logistic Regression.ipynb
+- Covers logistic regression for binary classification
+- Explains maximum likelihood estimation and model training
+- Discusses regularisation and model interpretation
 
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
