@@ -64,6 +64,16 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Explains maximum likelihood estimation and model training
 - Discusses regularisation and model interpretation
 
+### Module_014 - SVM.ipynb
+- Explains Support Vector Machine algorithms and their mathematical foundations
+- Covers kernel tricks and margin optimisation techniques
+- Discusses hyperparameter tuning and multi-class SVM approaches
+
+### Module_015 - Clustering.ipynb
+- Introduces unsupervised learning through clustering algorithms
+- Covers k-means, hierarchical clustering, and density-based methods
+- Explains cluster evaluation metrics and determining optimal cluster numbers
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
