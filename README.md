@@ -66,13 +66,18 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 
 ### Module_014 - SVM.ipynb
 - Explains Support Vector Machine algorithms and their mathematical foundations
-- Covers kernel tricks and margin optimisation techniques
+- Covers kernel tricks and margin optimisation techniques 
 - Discusses hyperparameter tuning and multi-class SVM approaches
 
 ### Module_015 - Clustering.ipynb
 - Introduces unsupervised learning through clustering algorithms
 - Covers k-means, hierarchical clustering, and density-based methods
 - Explains cluster evaluation metrics and determining optimal cluster numbers
+
+### Module_016 - PCA.ipynb
+- Explains Principal Component Analysis for dimensionality reduction
+- Covers eigenvalue decomposition and variance explained ratios
+- Discusses feature transformation and data visualisation techniques
 
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
