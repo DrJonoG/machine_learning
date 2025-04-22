@@ -79,6 +79,11 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Covers eigenvalue decomposition and variance explained ratios
 - Discusses feature transformation and data visualisation techniques
 
+### Module_017 - Intro To DL.ipynb
+- Introduces neural networks and their historical development in deep learning
+- Explains the five key building blocks of neural networks including backpropagation and activation functions
+- Covers practical aspects like hyperparameter tuning and regularization techniques
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
