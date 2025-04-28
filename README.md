@@ -84,6 +84,11 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Explains the five key building blocks of neural networks including backpropagation and activation functions
 - Covers practical aspects like hyperparameter tuning and regularization techniques
 
+### Module_018 - Neural Networks.ipynb
+- Details the architecture and components of neural networks, including layers, weights, biases, and activation functions
+- Explains function approximation, forward and backward passes, and the use of gradient descent and backpropagation for training
+- Discusses practical implementation, types of gradient descent, and when deep learning is a suitable solution
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
