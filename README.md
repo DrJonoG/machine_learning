@@ -89,6 +89,11 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Explains function approximation, forward and backward passes, and the use of gradient descent and backpropagation for training
 - Discusses practical implementation, types of gradient descent, and when deep learning is a suitable solution
 
+### Module_019 - Hyperparameters.ipynb
+- Explores hyperparameter optimization and its crucial role in deep learning model performance
+- Covers key hyperparameters including learning rate, batch size, epochs, optimizer types, dropout rates, and weight initialization
+- Demonstrates practical implementation differences between NumPy and PyTorch neural networks
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
