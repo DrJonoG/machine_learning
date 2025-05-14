@@ -94,6 +94,13 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Covers key hyperparameters including learning rate, batch size, epochs, optimizer types, dropout rates, and weight initialization
 - Demonstrates practical implementation differences between NumPy and PyTorch neural networks
 
+### Module_020 - Transparency and Interpretability.ipynb
+- Explores transparency and interpretability in machine learning, focusing on the risks of bias in data and models
+- Covers real-world consequences of opaque models, such as discrimination and ethical issues
+- Introduces tools like Datasheets for Datasets and Model Cards to document and benchmark models
+- Discusses methods to detect and mitigate bias, and the importance of regulatory compliance (e.g., UK GDPR)
+- Compares Explainable AI (post hoc explanations) and Interpretable AI (inherently transparent models), highlighting trade-offs between complexity and human understanding
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
