@@ -101,6 +101,13 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Discusses methods to detect and mitigate bias, and the importance of regulatory compliance (e.g., UK GDPR)
 - Compares Explainable AI (post hoc explanations) and Interpretable AI (inherently transparent models), highlighting trade-offs between complexity and human understanding
 
+### Module_021 - CNNs.ipynb
+- Explains convolutional neural networks (CNNs) and their applications in computer vision, NLP and financial time series
+- Covers key CNN components including convolutional filters, activation functions, feature maps and pooling layers
+- Provides mathematical formulas for calculating output dimensions, parameters and receptive fields
+- Discusses important hyperparameters like padding and stride, and how they affect network architecture
+- Explores common CNN architectures and the principles of local connectivity and parameter sharing
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
