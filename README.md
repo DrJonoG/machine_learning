@@ -108,6 +108,13 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Discusses important hyperparameters like padding and stride, and how they affect network architecture
 - Explores common CNN architectures and the principles of local connectivity and parameter sharing
 
+### Module_022 - Bias for CNN.ipynb
+- Explores the biological basis for convolutional neural networks and their connection to visual neuron responses
+- Dissects the LeNet-5 architecture and explains how each filter processes computer images
+- Covers the three main CNN building blocks: convolutional layers, pooling layers, and fully connected layers
+- Provides mathematical formulations for computing output dimensions using filter size, stride, and padding parameters
+- Discusses CNN hyperparameter optimization and practical implementation using PyTorch for computer vision systems
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
