@@ -115,6 +115,17 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Provides mathematical formulations for computing output dimensions using filter size, stride, and padding parameters
 - Discusses CNN hyperparameter optimization and practical implementation using PyTorch for computer vision systems
 
+### Module_023 - Reinforcement Learning.ipynb
+- Introduces reinforcement learning as a sub-area of machine learning where agents learn from trial and error through environmental interaction
+- Covers key RL components including actions, expected rewards, and the critical exploration vs exploitation trade-off
+- Explains the Multi-Armed Bandit (MAB) problem with real-world applications in A/B testing, drug treatments, and network routing
+- Details Markov Decision Processes (MDPs) including states, actions, rewards, episodes, and policy optimization
+- Compares model-free approaches (Q-Learning, SARSA, Policy Gradient methods) with model-based approaches (value iteration, policy iteration)
+- Demonstrates practical concepts through Markov chains modeling student behavior with transition matrices and state diagrams
+- Provides comprehensive coverage of the Bellman equation, discount factors, and value iteration algorithms for optimal policy derivation
+- Explains Q-Learning as a model-free algorithm for learning optimal policies without environment models
+- Introduces Temporal Difference (TD) learning, combining Monte Carlo methods and dynamic programming for online learning
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
