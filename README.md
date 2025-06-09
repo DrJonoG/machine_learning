@@ -126,6 +126,16 @@ This repository contains comprehensive notes and concepts from the Machine Learn
 - Explains Q-Learning as a model-free algorithm for learning optimal policies without environment models
 - Introduces Temporal Difference (TD) learning, combining Monte Carlo methods and dynamic programming for online learning
 
+### Module_024 - Hyperparameters.ipynb
+- Advanced exploration of hyperparameter tuning challenges and methodologies in machine learning and deep learning
+- Defines critical challenges in hyperparameter optimization including non-stationarity and heteroscedasticity concepts
+- Covers comprehensive methods for hyperparameter tuning: handcrafted search, grid search, random search, and Bayesian optimization
+- Explores state-of-the-art techniques including batch (parallel) Bayesian optimization for large-scale distributed systems
+- Details advanced batch optimization strategies: Constant Liar Method, Local Penalisation, and Thompson Sampling for parallel evaluation
+- Discusses modern approaches including multi-fidelity optimization, Hyperband/BOHB, meta-learning, and Neural Architecture Search (NAS)
+- Emphasizes the critical impact of hyperparameter selection on model performance and learning efficiency
+- Addresses computational efficiency challenges and resource allocation strategies in hyperparameter optimization
+
 ### Summary.ipynb
 - Provides a comprehensive summary of all course modules
 - Includes key concepts, formulas, and practical applications
